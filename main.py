@@ -16,7 +16,7 @@ msg.pack()
 
 
 
-button=Button(root,text="Start",command=start)
+button=Button(root,text="Startt",command=start)
 button.pack()
 
 
