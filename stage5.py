@@ -12,7 +12,7 @@ def Checkrange():
 #user defined function 2:
 def Inrange():
     if user != number:
-        print("OOoPS!!try again!")
+        print("OOPS!!try again!")
 
 #user defined function 3:
 def Checknum():

@@ -30,7 +30,7 @@ flag=6
 correct_guess=0
 for i in range(0,5):
     flag=flag-1
-    print("You have",flag,"chancess remaining")
+    print("You have",flag,"chances remaining")
     user = int(input("Guess the number"))
     Checkrange()
     Inrange()

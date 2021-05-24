@@ -6,7 +6,7 @@ def Checkrange():
     if user in range(num1,num2):
         print("  ")
     else:
-        print("YOU HAVE TO SeELECT IN RANGE OF 1-15!!!!")
+        print("YOU HAVE TO SELECT IN RANGE OF 1-15!!!!")
 #user defined function 2
 def Inrange():
     if user != number:
